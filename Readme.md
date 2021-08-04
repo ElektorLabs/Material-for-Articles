@@ -6,7 +6,7 @@ This mark down document will give you an overview of the currently present artic
 
 ## Table of contents
 
-### [200597 - A Compass Rose Using the GY-271](To read the full article visit  https://www.elektormagazine.com/articles/compass-rose-using-the-gy-271)
+### [200597 - A Compass Rose Using the GY-271](https://www.elektormagazine.com/articles/compass-rose-using-the-gy-271)
  Building an electronic compass doesn't have to be difficult. This design features a GY-271 compass module and a NeoPixel LED ring as a compass.
  
 ### 210466 - ESP32-C3 a first hands-on
