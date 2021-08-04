@@ -1,8 +1,8 @@
 # This is the Repository for the Elektor article materials
 
 For our various articles you can read online, you will find here the attached materials.
-May it be sourcoe, poster, images, binarys or may even PDF versions of the articles at one point, those will be combined here.
-This mark down document will give you an overview of the currently present articles that have there material included here. 
+May it be source code, poster, images, binarys or may even PDF versions of the articles at one point, those will be combined here.
+This mark down document will give you an overview of the articles that have there material included here. 
 
 ## Table of contents
 
