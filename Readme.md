@@ -6,7 +6,7 @@ This mark down document will give you an overview of the articles that have ther
 
 ## Table of contents
 
-### [210051 - Color to Sound: How to Read Out a Color Sensor via I2C] 
+### 210051 - Color to Sound: How to Read Out a Color Sensor via I2C
  Electronics can be helpful for handicapped people, as this educational project demonstrates. 
  For those who cannot see colors themselves, a color sensor can do the job; a buzzer is used as acoustical feedback, for color and brightness information. 
 
