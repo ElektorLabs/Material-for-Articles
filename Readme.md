@@ -6,6 +6,11 @@ This mark down document will give you an overview of the articles that have ther
 
 ## Table of contents
 
+### 200507 - Modbus Over WLAN (Part 1)
+ The Modbus protocol is widely used in the industrial sector for communication between systems and controllers. 
+ This is usually done with the tried-and-true RS485 interface and conventional copper wire. 
+ Here we present a module that allows you to use the Modbus protocol over a wireless local area network (WLAN).
+
 ### 210051 - Color to Sound: How to Read Out a Color Sensor via I2C
  Electronics can be helpful for handicapped people, as this educational project demonstrates. 
  For those who cannot see colors themselves, a color sensor can do the job; a buzzer is used as acoustical feedback, for color and brightness information. 
